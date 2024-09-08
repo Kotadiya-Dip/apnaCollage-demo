@@ -1,2 +1,2 @@
 # apnaCollage-demo
-this is new depository for learning git 
+this is new depository for learning github 
